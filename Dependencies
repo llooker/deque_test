@@ -1,0 +1,12 @@
+
+**Dependencies**
+
+Add the following as dependencies:
+https://cdn.rawgit.com/looker/visualization-api-examples/master/examples/common/d3.v4.js
+https://cdn.rawgit.com/looker/visualization-api-examples/master/examples/common/utils.js
+https://cdn.rawgit.com/looker/visualization-api-examples/master/examples/common/highcharts.js
+https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.js
+https://code.highcharts.com/modules/export-data.js
+https://code.highcharts.com/modules/exporting.js
+https://code.highcharts.com/modules/accessibility.js
+https://code.highcharts.com/modules/annotations.js
